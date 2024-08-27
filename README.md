@@ -10,7 +10,7 @@
 - Lucas Coco
 - Renan Ferreira
 - Romulo Lourenço
-- Tiago Valinhos
+- Tiago Valinhos Ventura
 - Victor Hugo Schuenck
 <br><br>
 
